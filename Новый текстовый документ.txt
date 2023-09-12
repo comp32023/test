@@ -1,0 +1,3 @@
+FAST API
+через ком. строку, сначала заходим в venv
+uvicorn main:app --reload
